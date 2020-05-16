@@ -1,3 +1,17 @@
 .Board{
 
 }
+.NumberPopup{
+    position: absolute;
+    top: 40%;
+    right: 50%;
+    padding: 40px;
+    font-size: 60px;
+    color: #504c4c;
+    /*width: 80%;*/
+    /*height: 100%;*/
+    background-color: #ccc;
+    z-index: 1;
+    border: 1px solid #9a9696;
+    border-radius: 10px;
+}
