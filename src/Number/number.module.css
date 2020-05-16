@@ -1,0 +1,13 @@
+.Number{
+    padding:10px 20px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    width: 55px;
+    display: inline-block;
+    /*text-align: center;*/
+}
+
+.Selected{
+    border: 1px solid #8cba51;
+    background-color: #deff8b;
+}

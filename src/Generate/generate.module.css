@@ -1,0 +1,22 @@
+.Generate{
+    min-height: 60px;
+    text-align: left;
+}
+
+.Generate button{
+    margin-left: 20px;
+}
+
+
+.Number{
+    padding:6px 20px;
+    border: 1px solid #ccc;
+    background-color: #f2f2f2   ;
+    margin: 10px;
+    width: 80px;
+    display: inline-block;
+    color: #17a2b8;
+    vertical-align: middle;
+    font-weight: 700;
+    text-align: center;
+}
